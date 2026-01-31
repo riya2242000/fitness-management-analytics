@@ -38,3 +38,10 @@ This project focuses on building an analytics module for a fitness management sy
 ---
 
 ## Folder Structure
+sql/ → database schema and KPI queries
+python/ → analysis scripts
+
+---
+
+## Author
+**Riya Makhani**
